@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "984967326312",
+    "project_id": "pawguard-da417",
+    "storage_bucket": "pawguard-da417.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984967326312:android:55e0378a03f498759f29dd",
+        "android_client_info": {
+          "package_name": "com.example.pawguard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984967326312-uajbh3sgp6erkg2fpso76hfgn19ll8eq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT_KdH1oPM4SJxh3pXTvm09gtZPqj50cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984967326312-uajbh3sgp6erkg2fpso76hfgn19ll8eq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "984967326312-2g68q9vok858nsrsbpf92hmc1q7pnegm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pawguard"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984967326312:android:5ed71b49a31efdfc9f29dd",
+        "android_client_info": {
+          "package_name": "paw.guard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984967326312-uajbh3sgp6erkg2fpso76hfgn19ll8eq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT_KdH1oPM4SJxh3pXTvm09gtZPqj50cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984967326312-uajbh3sgp6erkg2fpso76hfgn19ll8eq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "984967326312-2g68q9vok858nsrsbpf92hmc1q7pnegm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pawguard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
